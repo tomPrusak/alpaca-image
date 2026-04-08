@@ -1,0 +1,123 @@
+{
+  "status": "ok",
+  "data": {
+    "accessorizeAlpaca": [
+      { "name": "Hair" },
+      { "name": "Ears" },
+      { "name": "Eyes" },
+      { "name": "Mouth" },
+      { "name": "Neck" },
+      { "name": "Leg" },
+      { "name": "Accessories" },
+      { "name": "Background" }
+    ],
+    "hair": [
+      { "name": "Default" },
+      { "name": "Bang" },
+      { "name": "Curls" },
+      { "name": "Elegant" },
+      { "name": "Fancy" },
+      { "name": "Quiff" },
+      { "name": "Short" }
+    ],
+    "ears": [
+      { "name": "Default" },
+      { "name": "Tilt-Backward" },
+      { "name": "Tilt-Forward" }
+    ],
+    "eyes": [
+      { "name": "Default" },
+      { "name": "Angry" },
+      { "name": "Naughty" },
+      { "name": "Panda" },
+      { "name": "Smart" },
+      { "name": "Star" },
+      { "name": "Hair" }
+    ],
+    "mouth": [
+      { "name": "Default" },
+      { "name": "Astonished" },
+      { "name": "eating" },
+      { "name": "Laugh" },
+      { "name": "Tongue" }
+    ],
+    "neck": [
+      { "name": "Default" },
+      { "name": "Bend-Backward" },
+      { "name": "Bend-Forward" },
+      { "name": "thick" }
+    ],
+    "leg": [
+      { "name": "Default" },
+      { "name": "Buble-Tea" },
+      { "name": "Cookie" },
+      { "name": "Game-Console" },
+      { "name": "Tilt-Backward" },
+      { "name": "Tilt-Forward" }
+    ],
+    "accessories": [
+      { "name": "Headphone" },
+      { "name": "Earings" },
+      { "name": "Flower" },
+      { "name": "Glasses" }
+    ],
+    "Backgrounds": [
+      {
+        "name": "Blue50"
+      },
+      {
+        "name": "Blue60"
+      },
+      {
+        "name": "Blue70"
+      },
+      {
+        "name": "Darkblue30"
+      },
+      {
+        "name": "Darkblue50"
+      },
+      {
+        "name": "Darkblue70"
+      },
+      {
+        "name": "Green50"
+      },
+      {
+        "name": "Green60"
+      },
+      {
+        "name": "Green70"
+      },
+      {
+        "name": "Grey40"
+      },
+      {
+        "name": "Grey70"
+      },
+      {
+        "name": "Grey80"
+      },
+      {
+        "name": "Red50"
+      },
+      {
+        "name": "Red60"
+      },
+      {
+
+
+        "name": "Red70"
+      },
+      {
+        "name": "Yellow50"
+      },
+      {
+        "name": "Yellow60"
+      },
+      {
+        "name": "Yellow70"
+      }
+    ]
+  }
+}

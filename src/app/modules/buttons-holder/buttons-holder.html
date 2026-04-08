@@ -1,5 +1,21 @@
 <div>
-  @for (button of buttonsNames; track $index) {
-    <app-buttons [buttonName]="button.name"></app-buttons>
+  <h3>Accesorize The Alpaca</h3>
+  @for (button of accessorizeAlpaca; track $index; let i = $index) {
+    <app-buttons
+      [buttonName]="button.name"
+      [index]="i"
+      (returnButtonName)="onChange($event)"
+    ></app-buttons>
+  }
+</div>
+
+<div>
+  <h3>Style</h3>
+  @for (button of styleAlpaca; track $index; let i = $index) {
+    <app-buttons
+      [buttonName]="button.name"
+      [index]="i + accessorizeAlpacaLength"
+      (returnButtonName)="onChange($event)"
+    ></app-buttons>
   }
 </div>

@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component, output, input } from '@angular/core';
 
 @Component({
   selector: 'app-buttons',
@@ -7,6 +7,14 @@ import { Component, Input } from '@angular/core';
   styleUrl: './buttons.css',
 })
 export class Buttons {
-  @Input() buttonName!:string;
+  index = input<number>(0);
+  buttonName = input<string>('');
+  returnButtonName = output<{ name: string; index: number }>();
 
+  sendButtonName() {
+    this.returnButtonName.emit({
+      name: this.buttonName(),
+      index: this.index(),
+    });
+  }
 }

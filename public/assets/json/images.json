@@ -1,0 +1,210 @@
+{
+  "status": "ok",
+  "data": {
+    "defaultAlpaca": [
+      {
+        "img": "../../assets/images/accessories/headphone.png"
+      },
+      {
+        "img": "../../assets/images/ears/default.png"
+      },
+      {
+        "img": "../../assets/images/hair/default.png"
+      },
+      {
+        "img": "../../assets/images/mouth/default.png"
+      },
+      {
+        "img": "../../assets/images/neck/default.png"
+      },
+      {
+        "img": "../../assets/images/eyes/default.png"
+      },
+      {
+        "img": "../../assets/images/nose/nose.png"
+      },
+      {
+        "img": "../../assets/images/leg/default.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/blue50.png"
+      }
+    ],
+    "accessories": [
+      {
+        "img": "../../assets/images/accessories/headphone.png"
+      },
+      {
+        "img": "../../assets/images/accessories/earings.png"
+      },
+      {
+        "img": "../../assets/images/accessories/flower.png"
+      },
+      {
+        "img": "../../assets/images/accessories/glasses.png"
+      }
+    ],
+    "backgrounds": [
+      {
+        "img": "../../assets/images/backgrounds/blue50.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/blue60.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/blue70.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/darkblue30.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/darkblue50.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/darkblue70.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/green50.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/green60.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/green70.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/grey40.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/grey70.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/grey80.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/red50.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/red60.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/red70.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/yellow50.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/yellow60.png"
+      },
+      {
+        "img": "../../assets/images/backgrounds/yellow70.png"
+      }
+    ],
+    "ears": [
+      {
+        "img": "../../assets/images/ears/default.png"
+      },
+      {
+        "img": "../../assets/images/ears/tilt-backward.png"
+      },
+      {
+        "img": "../../assets/images/ears/tilt-forward.png"
+      }
+    ],
+    "eyes": [
+      {
+        "img": "../../assets/images/eyes/default.png"
+      },
+      {
+        "img": "../../assets/images/eyes/angry.png"
+      },
+      {
+        "img": "../../assets/images/eyes/naughty.png"
+      },
+      {
+        "img": "../../assets/images/eyes/panda.png"
+      },
+      {
+        "img": "../../assets/images/eyes/smart.png"
+      },
+      {
+        "img": "../../assets/images/eyes/star.png"
+      }
+    ],
+    "hair": [
+      {
+        "img": "../../assets/images/hair/default.png"
+      },
+      {
+        "img": "../../assets/images/hair/bang.png"
+      },
+      {
+        "img": "../../assets/images/hair/curls.png"
+      },
+      {
+        "img": "../../assets/images/hair/elegant.png"
+      },
+      {
+        "img": "../../assets/images/hair/fancy.png"
+      },
+      {
+        "img": "../../assets/images/hair/quiff.png"
+      },
+      {
+        "img": "../../assets/images/hair/short.png"
+      }
+    ],
+    "leg": [
+      {
+        "img": "../../assets/images/leg/default.png"
+      },
+      {
+        "img": "../../assets/images/leg/buble-tea.png"
+      },
+      {
+        "img": "../../assets/images/leg/cookie.png"
+      },
+      {
+        "img": "../../assets/images/leg/game-console.png"
+      },
+      {
+        "img": "../../assets/images/leg/tilt-backward.png"
+      },
+      {
+        "img": "../../assets/images/leg/tilt-forward.png"
+      }
+    ],
+    "mouth": [
+      {
+        "img": "../../assets/images/mouth/default.png"
+      },
+      {
+        "img": "../../assets/images/mouth/astonished.png"
+      },
+
+      {
+        "img": "../../assets/images/mouth/eating.png"
+      },
+      {
+        "img": "../../assets/images/mouth/laugh.png"
+      },
+      {
+        "img": "../../assets/images/mouth/tongue.png"
+      }
+    ],
+    "neck": [
+      {
+        "img": "../../assets/images/neck/default.png"
+      },
+      {
+        "img": "../../assets/images/neck/bend-backward.png"
+      },
+      {
+        "img": "../../assets/images/neck/bend-forward.png"
+      },
+      {
+        "img": "../../assets/images/neck/thick.png"
+      }
+    ]
+  }
+}

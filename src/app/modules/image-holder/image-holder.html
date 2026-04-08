@@ -1,1 +1,20 @@
-<p>image-holder works!</p>
+
+{{data.value().index}}
+<div class="block-96">
+  <!-- <div class="flex">
+    @for (part of imageHolder$ | async; track $index; let i = $index) {
+      <img src="{{ part.img }}" alt="" />
+    }
+  </div> -->
+
+  @for (bodyPart of defaultAlpaca$ | async; track $index; let i = $index) {
+    <img src="{{ bodyPart.img }}" alt="" />
+  }
+</div>
+
+
+<div>
+
+
+
+</div>
